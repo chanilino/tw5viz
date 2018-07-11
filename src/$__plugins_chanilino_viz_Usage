@@ -1,0 +1,27 @@
+```
+<$viz text='  digraph G {
+      Consola->nginx [label="Pide encriptar url para cliente", color=green]
+      nginx [shape=box];
+      nginx->Consola [color=red]
+      client-> HAPROXY  [color=red]
+      STUPID [shape=box];
+      HAPROXY -> STUPID  [color=red]
+      STUPID -> Prelanderred
+      STUPID -> STUPID [color=green, label="Pasa del nginx al hhvm desdencriptado"]
+      vsh [shape=box];
+      STUPID->vsh  [color=red]
+     }' class="myexample"/>
+```
+
+<$viz text='  digraph G {
+      Consola->nginx [label="Pide encriptar url para cliente", color=green]
+      nginx [shape=box];
+      nginx->Consola [color=red]
+      client-> HAPROXY  [color=red]
+      STUPID [shape=box];
+      HAPROXY -> STUPID  [color=red]
+      STUPID -> Prelanderred
+      STUPID -> STUPID [color=green, label="Pasa del nginx al hhvm desdencriptado"]
+      vsh [shape=box];
+      STUPID->vsh  [color=red]
+     }' class="myexample"/>
