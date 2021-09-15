@@ -1,0 +1,6 @@
+{
+    "title": "$:/plugins/chanilino/viz",
+    "name": "Viz",
+    "description": "Plugin for graphviz",
+    "list": "readme"
+}

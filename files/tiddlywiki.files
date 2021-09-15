@@ -1,0 +1,28 @@
+{
+    "tiddlers": [
+        {
+            "file": "lite.render.js",
+            "fields": {
+                "type": "application/javascript",
+                "title": "$:/plugins/chanilino/viz/lite.render.js",
+                "module-type": "library"
+            }
+        },
+        {
+            "file": "viz.js",
+            "fields": {
+                "type": "application/javascript",
+                "title": "$:/plugins/chanilino/viz/viz.js",
+                "module-type": "library"
+            }
+        },
+        {
+            "file": "vizWidget.js",
+            "fields": {
+                "type": "application/javascript",
+                "title": "$:/plugins/chanilino/viz/vizWidget.js",
+                "module-type": "widget"
+            }
+        }
+    ]
+}
